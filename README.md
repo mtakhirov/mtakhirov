@@ -6,9 +6,7 @@
   <em><samp>Full Stack Developer | Tech Explorer</samp></em>
 </p>
 
----
-
-<h2>
+<h3>
   <samp>Projects</samp>
 </h2>
 
@@ -41,8 +39,6 @@
     </picture>
   </a>
 </div>
-
----
 
 <p align="center">
   <a href="https://takhirov.uz/"><samp>website</samp></a> •
