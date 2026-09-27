@@ -1,50 +1,55 @@
-<h1 align="center">
-  <samp>Hi there, I'm Mukhammaddiyor 👋</samp>
-</h1>
+<a href="https://takhirov.uz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <img alt="Muhammaddiyor Tohirov — Software engineer, mostly TypeScript and Go" src="./assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-<p align="center">
-  <em><samp>Full Stack Developer | Tech Explorer</samp></em>
-</p>
+I have spent half my life talking to computers. These days I mostly work on
+architecture and scaling, in Node.js and Go. Right now I am learning C++ and Rust.
 
-<h3>
-  <samp>Projects</samp>
-</h2>
+### <samp>projects</samp>
+
+<a href="https://github.com/flakeforge/kyuar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/kyuar-dark.svg">
+    <img alt="kyuar — QR codes that live inside Telegram: inline in any chat, from the bot, or in a Mini App editor." src="./assets/projects/kyuar-light.svg" width="100%">
+  </picture>
+</a>
 
 <div align="center">
-  <a href="https://github.com/mtakhirov/website">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/website.png">
-      <img alt="A personal website that highlights who I am, my work, and my passions. Built with Next.js, TypeScript, and Tailwind CSS." src="./assets/projects/website-light.png" width="49%">
-    </picture>
-  </a>
-
-  <a href="https://github.com/mirmuxsin/laragram">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/laragram.png">
-      <img alt="Laravel package to develop telegram bot inside laravel project" src="./assets/projects/laragram-light.png" width="49%">
-    </picture>
-  </a>
-
-  <a href="https://github.com/mtakhirov/jovo-lang">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/jovo-lang.png">
-      <img alt="an experimental and fun project built on humor and curiosity, initiated to gain deeper insights into compilers. currently, the project is pursued solely for educational purposes." src="./assets/projects/jovo-lang-light.png" width="49%">
-    </picture>
-  </a>
-
-  <a href="https://github.com/kayp-oss/fin-app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/fin-app.png">
-      <img alt="Finance monitoring assistant - helps users track their expenses, manage budgets and receive financial insights directly via Telegram." src="./assets/projects/fin-app-light.png" width="49%">
-    </picture>
-  </a>
+<a href="https://github.com/flakeforge/fin">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/fin-dark.svg">
+    <img alt="fin — Finance assistant in Telegram: track expenses, manage budgets, get insights." src="./assets/projects/fin-light.svg" width="49%">
+  </picture>
+</a>
+<a href="https://github.com/mtakhirov/website">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/website-dark.svg">
+    <img alt="website — Personal site and blog. Next.js 16, Tailwind CSS 4, MDX, uz/en." src="./assets/projects/website-light.svg" width="49%">
+  </picture>
+</a>
+<a href="https://github.com/mtakhirov/jovo-lang">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/jovo-lang-dark.svg">
+    <img alt="jovo-lang — A toy programming language, built to learn how compilers work: lexer, parser, AST." src="./assets/projects/jovo-lang-light.svg" width="49%">
+  </picture>
+</a>
+<a href="https://github.com/mtakhirov/nix">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/nix-dark.svg">
+    <img alt="nix — My macOS setup as code: nix-darwin, home-manager and Homebrew from a single flake." src="./assets/projects/nix-light.svg" width="49%">
+  </picture>
+</a>
 </div>
 
-<p align="center">
-  <a href="https://takhirov.uz/"><samp>website</samp></a> •
-  <a href="https://t.me/mtakhirov"><samp>tg:mtakhirov</samp></a> •
-  <a href="https://x.com/mtakhirov"><samp>x/twitter:mtakhirov</samp></a> •
-  <a href="mailto:oss@takhirov.uz"><samp>mail:oss@takhirov.uz</samp></a>
-</p>
 
- 
+### <samp>elsewhere</samp>
+
+<samp>
+<a href="https://takhirov.uz">takhirov.uz</a> ·
+<a href="https://t.me/mtakhirov">telegram</a> ·
+<a href="https://x.com/mtakhirov">x</a> ·
+<a href="mailto:opensource@takhirov.uz">opensource@takhirov.uz</a>
+</samp>

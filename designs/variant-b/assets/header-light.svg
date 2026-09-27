@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img" aria-label="Muhammaddiyor Tohirov — Software engineer, mostly TypeScript and Go">
+  <rect width="880" height="200" fill="#f3f3f3"/>
+  <g fill="#e1e1e1">
+    <rect x="0" y="0" width="880" height="1"/>
+    <rect x="0" y="199" width="880" height="1"/>
+  </g>
+  <g fill="#b8400a">
+    <rect x="40" y="48" width="8" height="8"/><rect x="48" y="48" width="8" height="8"/><rect x="56" y="48" width="8" height="8"/>
+    <rect x="40" y="56" width="8" height="8"/><rect x="56" y="56" width="8" height="8"/>
+    <rect x="40" y="64" width="8" height="8"/><rect x="48" y="64" width="8" height="8"/><rect x="56" y="64" width="8" height="8"/>
+  </g>
+  <text x="84" y="70" fill="#181818" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" font-weight="600">Muhammaddiyor Tohirov</text>
+  <text x="84" y="104" fill="#666666" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Software engineer, mostly TypeScript and Go</text>
+  <text x="84" y="150" fill="#b8400a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">~/takhirov.uz</text>
+  <rect x="204" y="139" width="9" height="15" fill="#b8400a">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
